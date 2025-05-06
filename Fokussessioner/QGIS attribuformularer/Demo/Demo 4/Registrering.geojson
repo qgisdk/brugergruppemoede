@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Registrering",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25832" } },
+"features": [
+{ "type": "Feature", "properties": { "Navn": "Registrering 1", "Type": "Træ" }, "geometry": { "type": "Point", "coordinates": [ 564438.527424327330664, 6256599.367937220260501 ] } },
+{ "type": "Feature", "properties": { "Navn": "Registrering 2", "Type": "Brønd" }, "geometry": { "type": "Point", "coordinates": [ 564561.276191143435426, 6256491.060201794840395 ] } }
+]
+}
